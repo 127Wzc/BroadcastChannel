@@ -1,8 +1,8 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
     <channel>
         <follow_challenge>
-          <feedId>67890413000169472</feedId>
+          <feedId>69636331291632640</feedId>
           <userId>67469387763068928</userId>
-      </follow_challenge>
+        </follow_challenge>
     </channel>
 </rss>
